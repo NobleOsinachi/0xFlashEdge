@@ -24,7 +24,7 @@ To get started with **0xFlashEdge**, you will need:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/0xFlashEdge.git
+   git clone https://github.com/NobleOsinachi/0xFlashEdge.git
    cd 0xFlashEdge
    ```
 
